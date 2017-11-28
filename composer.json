@@ -1,5 +1,5 @@
 {
-    "name": "antalaron/video-gif",
+    "name": "rubin/video-gif",
     "type": "library",
     "description": "PHP library to create animated gif thumbnails for videos",
     "keywords": ["video processing", "video", "thumbnail", "gif", "animated gif"],
