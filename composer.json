@@ -16,7 +16,7 @@
         }
     },
     "require": {
-        "sybio/gif-creator": "1.0",
+        "rubin/gif-creator": "1.1.*",
         "gregwar/image": "2.*",
         "php-ffmpeg/php-ffmpeg": "0.6.*"
     }
