@@ -50,7 +50,7 @@ class VideoGif
      */
     public function __construct($tmpDir = '/tmp', $defaults = array())
     {
-        $this->tmpDir = ltrim($tmpDir, '/');
+        $this->tmpDir = $tmpDir;
         $this->defaults = array_merge($this->defaults, $defaults);
     }
 
